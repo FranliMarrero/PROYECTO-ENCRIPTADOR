@@ -1,10 +1,10 @@
 # ENCRIPTADOR 
-en esta actividad del trabajdo de encriptador esta basicamente realizada conjunto con el cifrado cesar y que hay dos funciones llamadas "cifrar y Desifrar" ya sea en letras (mayuscula y minuscula e incluso numero).
+en esta actividad del trabajdo de encriptador esta basicamente realizada conjunto con el cifrado cesar y que hay dos funciones llamadas "Cifrar" y "Descifrar" ya sea en letras mayúscula y minúscula e incluso número.
 # Instalación 
-logicamente hemos relizao el trabajo con la carpeta de disco D,  creada atravez del git bash , una vez creada realizamos el trabajo atravez del visual studio code y agregamos lo de HTML , CSs y java el pincipal requesito de esto es crear la carpeta en el discoD.
-## Uso
-abriendo la carpeta en el  visual hemos creado primero el html para dar inicio al trabajo
-(muestra de html 1)
+Lógicamente hemos relizado el trabajo con la carpeta de disco D, creada a través del Git Bash , una vez creada realizamos el trabajo a través del Visual Studio Code y agregamos los HTML,CSS y los Javascript. El pincipal requesito de este proyecto es crear la carpeta en el disco D.
+# Uso
+abriendo la carpeta en el Visual Studio Code hemos creado primero el html para dar inicio al trabajo
+(Muestra de html 1)
 <!DOCTYPE html >
 < html  lang =" es " >
 < cabeza >
@@ -30,16 +30,17 @@ abriendo la carpeta en el  visual hemos creado primero el html para dar inicio a
                     < etiqueta  clase = " clave " para = " offset " > Clave secreta </etiqueta> <br> _
                     < input  id =" offset " type =" number " min =" -100 " max =" 100 " placeholder =" Ingresa tu clave secreta 
 
-## Contribución
-primeramente una compañera de estaba adelantado en avanzar lo que es de html y css pero despues a 2 de nosotras se estaba coordinando en hacer lo de java en dar la funcion de cifrar y decifrar pero tuvimos dificultad porque no nos salia buscabamos ninformacion pero no nos daba el resultado esperado hata que la compañera lo hizo y explico como fue a que le daba la funcion.
-pero ahora tenemos un problema lo de cifrar en palabras es decir 
+# Contribución
+Primeramente una compañera estaba avanzando lo que es de html y css pero despues a 2 de nosotras se estaba coordinando en hacer lo de JavaScript en dar la funcion de 
+Cifrar y Descifrar pero tuvimos dificultad porque no nos salia, buscábamos información pero no nos daba el resultado esperado hasta que la compañera lo hizo y explicó como fue que le daba la función.
+Pero ahora tenemos un problema lo de cifrar en palabras, es decir: 
 mayuscula=mayuscula
 minuscula=minuscula , igualmente en numeros nos falta eso.
 ## Ejemplos
-en el encriptador solo es colocar  un mensaje como "holas buen dia" y colocar un numero de clave como 2 y la funcion de cifrar dara resultado  como tipo + ejemplo 
+En el encriptador solo se colocar un mensaje como "Hola,buen dia" y colocar un número de clave como 2 y la funcion de "Cifrar" dara el resultado; ejemplo:
 "abeja"
 "2"
-=CDG y asi sucesivamente y en decifrar es como "devolver a su mensaje normal"
+=CDG y asi sucesivamente y en descifrar es como "devolver a su mensaje normal".
 ## Contacto
-en el mismo encriptador, en la parte inferior hemos dejado el correo donde se puede contactarnos 
-solo faltari tener un horario libre de recibir correo.
+En el mismo encriptador, en la parte inferior hemos dejado el correo donde se puede contactarnos 
+solo faltaría tener un horario libre de recibir correo.
